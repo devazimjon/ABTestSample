@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162963512168",
+    "project_id": "abtestsample-ff690",
+    "storage_bucket": "abtestsample-ff690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162963512168:android:47452cc2213c3bbf7654dd",
+        "android_client_info": {
+          "package_name": "uz.devazimjon.sample.abtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162963512168-vt16100jsf2m83gjo2dua1rbp4p06ghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrP_dWgK_K3MBSXxGCtEfscHX1tXFvhGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162963512168-vt16100jsf2m83gjo2dua1rbp4p06ghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
